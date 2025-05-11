@@ -1,0 +1,43 @@
+# 1) Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 2) Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+
+# 3) IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 4) macOS / general OS files
+.DS_Store
+Thumbs.db
+
+# 5) Logs and runtime data
+*.log
+*.csv
+*.sqlite3
+
+# 6) Temp files and build artifacts
+/tmp/
+/mnt/data/
+/resume_output*
+out_stub*
+*.docx
+*.pdf
+
+# 7) Plugin-static generated specs
+plugin_static/openapi.json
+plugin_static/openapi.yaml
+
+# 8) Secrets and config
+*.env
+.env.*
