@@ -1,0 +1,15 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Résumé Builder (Dev)",
+  "name_for_model": "resume_builder",
+  "description_for_human": "Generate a résumé PDF from Word template + JSON.",
+  "description_for_model": "When the user says '/ship résumé', upload the template (field 'template') and JSON string (field 'placeholders_json') to POST /build.",
+  "auth": { "type": "none" },
+  "api": {
+    "type": "openapi",
+    "url": "https://8634-2600-387-f-6c1b-00-6.ngrok-free.app/.well-known/openapi.json"
+  },
+  "logo_url": "https://8634-2600-387-f-6c1b-00-6.ngrok-free.app/.well-known/logo.png",
+  "contact_email": "me@example.com",
+  "legal_info_url": "https://8634-2600-387-f-6c1b-00-6.ngrok-free.app/legal"
+}

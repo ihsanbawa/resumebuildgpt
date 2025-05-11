@@ -1,0 +1,48 @@
+{
+  "{{Intro_Paragraph_350}}": "Product manager with 5 + years turning data and user insights into high-impact B2B SaaS features. Skilled at defining north-star metrics, shaping strategy, and shipping products alongside engineers, designers, and scientists. Known for crisp execution, clear communication, and a bias for fast iteration that drives adoption and revenue growth.",
+
+  "{{Company_1_50}}": "Pacvue",
+  "{{Location_1_50}}": "Remote",
+  "{{Job_Title_1_50}}": "Senior Product Manager",
+  "{{Date_Range_1_50}}": "February 2024 – Present",
+  "{{Responsibility_1_1_150}}": "Defined product vision and success metrics for six launches, aligning cross-functional engineering, design, and marketing teams around a shared roadmap.",
+  "{{Responsibility_1_2_150}}": "Shipped features that generated $1.3 M in incremental revenue and lifted enterprise adoption by 18%.",
+  "{{Responsibility_1_3_150}}": "Ran quarterly research sessions with Top-25 clients; translated findings into backlog priorities that improved user satisfaction scores by 12%.",
+  "{{Responsibility_1_4_150}}": "Conducted competitive and market analyses that led to 12 differentiating enhancements and shortened decision cycles for stakeholders.",
+  "{{Responsibility_1_5_150}}": "Partnered with SRE teams to streamline incident playbooks, cutting mean-time-to-resolution by 40%.",
+  "{{Responsibility_1_6_150}}": "Developed positioning and executive-level collateral for industry events, ensuring consistent messaging across orgs.",
+  "{{Responsibility_1_7_150}}": "Evangelized customer-centric practices across product squads, improving alignment and velocity.",
+
+  "{{Company_2_50}}": "Procter & Gamble",
+  "{{Location_2_50}}": "Cincinnati, OH",
+  "{{Job_Title_2_50}}": "Product Manager",
+  "{{Date_Range_2_50}}": "May 2022 – February 2024",
+  "{{Responsibility_2_1_150}}": "Led a cross-functional team of engineers, data scientists, and UX to deliver > 35 features on internal data products, realizing 25% cost savings and $5 M in efficiency gains.",
+  "{{Responsibility_2_2_150}}": "Introduced automated alerting that saved $10 M annually and reduced analyst time-on-task by 25%.",
+  "{{Responsibility_2_3_150}}": "Collaborated with Amazon & Walmart retail media teams to optimize ad spend through data-driven experimentation.",
+  "{{Responsibility_2_4_150}}": "Piloted budget-tracking tools that cut financial errors by 20% and boosted campaign ROI.",
+  "{{Responsibility_2_5_150}}": "Embedded AI-driven bidding algorithms, increasing conversion efficiency while maintaining transparency for end users.",
+
+  "{{Company_3_50}}": "Overhaul",
+  "{{Location_3_50}}": "Austin, TX",
+  "{{Job_Title_3_50}}": "Associate Product Manager",
+  "{{Date_Range_3_50}}": "January 2022 – May 2022",
+  "{{Responsibility_3_1_150}}": "Scoped data-governance requirements and roadmap for a centralized supply-chain data lake.",
+  "{{Responsibility_3_2_150}}": "Designed scalable ingestion pipelines on AWS (Lambda, SNS/Kinesis, S3), reducing onboarding time for new data sources by 30%.",
+  "{{Responsibility_3_3_150}}": "Coordinated sprints and acceptance criteria for a distributed dev team, delivering MVP on schedule.",
+
+  "{{Company_4_50}}": "Sunbeam Clinical Research",
+  "{{Location_4_50}}": "Prosper, TX",
+  "{{Job_Title_4_50}}": "Product Manager",
+  "{{Date_Range_4_50}}": "January 2020 – June 2021",
+  "{{Responsibility_4_1_150}}": "Defined KPIs with executives and built Power BI dashboards integrating 13 data sources, sharpening strategic decisions.",
+  "{{Responsibility_4_2_150}}": "Redesigned conversion-critical landing pages, lifting lead-to-enrollment rate by 16%.",
+
+  "{{Education_1_50}}": "The University of Texas at Austin",
+  "{{Degree_1_50}}": "M.S., Information Technology & Management",
+  "{{Graduation_1_50}}": "May 2022",
+
+  "{{Education_2_50}}": "The University of Texas at Dallas",
+  "{{Degree_2_50}}": "B.S., Accounting",
+  "{{Graduation_2_50}}": "Dec 2017"
+}
